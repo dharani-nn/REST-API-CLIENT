@@ -1,0 +1,5 @@
+Weather in London:
+Temperature: 15.23°C
+Feels Like: 13.89°C
+Humidity: 76%
+Condition: light rain
